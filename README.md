@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with ... **GROWTH FOR MY DEVELOPER'S JOURNEY**
 - 💬 Ask me about ... **FRONTEND DEVELOPMENT**
 - 📫 How to reach me: ...**EMAIL: ilesanmigodsgeneral@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...** I like the guitar**
+- ⚡ Fun fact: ...**I like the guitar**
 
