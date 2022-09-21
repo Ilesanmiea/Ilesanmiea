@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... **PRODUCT DESIGN**
 - 👯 I’m looking to collaborate on ... **ANYTHING DESIGNS AND DEVELOPMENT**
 - 🤔 I’m looking for help with ... **GROWTH FOR MY DEVELOPER'S JOURNEY**
-- 💬 Ask me about ... ** FRONTEND DEVELOPMENT**
+- 💬 Ask me about ... **FRONTEND DEVELOPMENT**
 - 📫 How to reach me: ...**EMAIL: ilesanmigodsgeneral@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...** I like the guitar**
