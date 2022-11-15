@@ -1,4 +1,4 @@
-### Hi there,👋 I am a designer-developer. I work as a product designer and a Frontend Developer 
+### Hi there,👋 I am a designer-developer. I work as a product designer and a Frontend Developer( a Unicornist) 
 
 
 
